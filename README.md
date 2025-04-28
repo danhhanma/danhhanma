@@ -1,11 +1,11 @@
-<h1 align="center">🚀 Danh Han Ma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
+<h1 align="center">🚀 Danh Hanma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Expert-orange?style=flat-square" alt="AI" />
   <img src="https://img.shields.io/badge/Web-Full%20Stack-blue?style=flat-square" alt="Web" />
   <img src="https://img.shields.io/badge/Mobile-Developer-brightgreen?style=flat-square" alt="Mobile" />
   <img src="https://img.shields.io/badge/Algorithm-Master-red?style=flat-square" alt="Algorithm" />
-  <img src="https://img.shields.io/badge/Admin-ICP--COJ-purple?style=flat-square" alt="Admin ICP COJ" />
+  <img src="https://img.shields.io/badge/Admin-ICP--COJ-purple?style=flat-square" alt="Admin ICPCOJ" />
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-## 👋 Xin chào! Tôi là <b>Danh Han Ma</b>
+## 👋 Xin chào! Tôi là <b>Danh Hanma</b>
 
 Chào mừng bạn đến với không gian sáng tạo và phát triển của tôi!  
 Tôi là một kỹ sư phần mềm, chuyên sâu về trí tuệ nhân tạo, thuật toán, phát triển ứng dụng web/mobile và kiến trúc hệ thống Full Stack.  
@@ -55,8 +55,8 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 - **JavaScript (92/100)**: Frontend/Backend, ứng dụng web động, hệ thống realtime  
 - **TypeScript (88/100)**: Ứng dụng hiện đại, an toàn, bảo trì tốt  
 - **Java (85/100)**: Ứng dụng backend & phát triển mobile (Android)  
-- **Kotlin (80/100)**: Ứng dụng mobile (Android), backend  
-- **HTML/CSS (90/100)**: UI/UX hiện đại, responsive  
+- **Kotlin (80/100)**: Ứng dụng mobile (Android), backend
+- **SQL (70/100)**: Thành thạo mọi cơ sở dữ liệu, vận dụng kĩ năng trong các dự án
 
 ---
 
@@ -87,7 +87,7 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 
 ## 🏆 Đóng góp cộng đồng
 
-- 👨‍💻 **Admin ICP COJ:** [icpcoj.id.vn](https://icpcoj.id.vn)  
+- 👨‍💻 **Admin ICPCOJ:** [icpcoj.id.vn](https://icpcoj.id.vn)  
   > Nền tảng Online Judge hỗ trợ hàng nghìn lập trình viên trẻ chinh phục thuật toán & phát triển tư duy giải quyết vấn đề.
 - 🌱 **Mentoring:** Hướng dẫn, đồng hành cùng sinh viên, lập trình viên trẻ trong hành trình học thuật toán và AI
 - 📝 **Open Source:** Đóng góp và chia sẻ các dự án, công cụ hữu ích cho cộng đồng
@@ -125,7 +125,7 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 
 
 
----
+
 
 <!-- Hiệu ứng động: Firework hoặc Particle (SVG động) -->
 <p align="center">
