@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Danh Han Ma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
+<h1 align="center">🚀 Danh Hanma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Expert-orange?style=flat-square" alt="AI" />
@@ -23,13 +23,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,kotlin,html,css,react,nodejs,tailwind,flutter,docker,mysql,mongodb,linux,nginx,cloudflare,ai" /><br>
-</p>
 
 ---
 
-## 👋 Xin chào! Tôi là <b>Danh Han Ma</b>
+## 👋 Xin chào! Tôi là <b>Danh Hanma</b>
 
 Chào mừng bạn đến với không gian sáng tạo và phát triển của tôi!  
 Tôi là một kỹ sư phần mềm, chuyên sâu về trí tuệ nhân tạo, thuật toán, phát triển ứng dụng web/mobile và kiến trúc hệ thống Full Stack.  
@@ -48,7 +45,7 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 <div align="center">
 
 <!-- Radar Chart for Skills -->
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['C++','Python','JavaScript','TypeScript','Java','Kotlin','HTML/CSS'],datasets:[{label:'Proficiency',data:[97,95,93,85,82,80,90],backgroundColor:'rgba(22,191,253,0.2)',borderColor:'rgba(22,191,253,1)',pointBackgroundColor:'rgba(22,191,253,1)'}]},options:{scale:{angleLines:{color:'#888'},ticks:{min:0,max:100,stepSize:20,color:'#fff'},pointLabels:{color:'#16BFFD',font:{size:16}}},plugins:{legend:{display:false}}}}" alt="Skill Radar" width="450"/>
+
 
 </div>
 
