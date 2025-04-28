@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Danh Hanma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
+<h1 align="center">🚀 Danh Han Ma – AI | Web | Mobile | Full Stack | Thuật toán 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Expert-orange?style=flat-square" alt="AI" />
@@ -23,10 +23,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,kotlin,html,css,react,nodejs,tailwind,flutter,docker,mysql,mongodb,linux,nginx,cloudflare,ai" /><br>
+</p>
 
 ---
 
-## 👋 Xin chào! Tôi là <b>Danh Hanma</b>
+## 👋 Xin chào! Tôi là <b>Danh Han Ma</b>
 
 Chào mừng bạn đến với không gian sáng tạo và phát triển của tôi!  
 Tôi là một kỹ sư phần mềm, chuyên sâu về trí tuệ nhân tạo, thuật toán, phát triển ứng dụng web/mobile và kiến trúc hệ thống Full Stack.  
@@ -44,16 +47,16 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 
 <div align="center">
 
-<!-- Radar Chart for Skills -->
-
-
+<!-- Radar Chart for Skills (Dữ liệu đã được hiển thị cụ thể) -->
 </div>
 
-- **C++ (⭐⭐⭐⭐⭐)**: Thuật toán, tối ưu hiệu suất, giải quyết các bài toán cạnh tranh
-- **Python (⭐⭐⭐⭐⭐)**: AI, Machine Learning, Data Processing, Backend
-- **JavaScript/TypeScript (⭐⭐⭐⭐)**: Frontend/Backend, ứng dụng web động, hệ thống realtime
-- **Java/Kotlin (⭐⭐⭐)**: Ứng dụng backend & phát triển mobile (Android)
-- **HTML/CSS (⭐⭐⭐⭐)**: UI/UX hiện đại, responsive
+- **C++ (98/100)**: Thuật toán, tối ưu hiệu suất, giải quyết các bài toán cạnh tranh  
+- **Python (95/100)**: AI, Machine Learning, Data Processing, Backend  
+- **JavaScript (92/100)**: Frontend/Backend, ứng dụng web động, hệ thống realtime  
+- **TypeScript (88/100)**: Ứng dụng hiện đại, an toàn, bảo trì tốt  
+- **Java (85/100)**: Ứng dụng backend & phát triển mobile (Android)  
+- **Kotlin (80/100)**: Ứng dụng mobile (Android), backend  
+- **HTML/CSS (90/100)**: UI/UX hiện đại, responsive  
 
 ---
 
@@ -80,6 +83,7 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 [👉 Khám phá chi tiết dự án](https://github.com/danhhanma/oj-project)
 
 ---
+
 
 ## 🏆 Đóng góp cộng đồng
 
@@ -118,24 +122,14 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danhhanma&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhhanma&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" height="180" />
-</div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danhhanma&bg_color=1a1b27&color=16BFFD&line=F7971E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
-</div>
+
 
 ---
 
-<!-- Hiệu ứng động: Firework hoặc Particle (dùng SVG hoặc link ngoài nếu muốn nâng cấp thêm nữa) -->
+<!-- Hiệu ứng động: Firework hoặc Particle (SVG động) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="animated" width="100%" />
 </p>
-
-<!-- Nếu muốn hiệu ứng động nâng cao hơn, nên dùng README profile generator hoặc GitHub Actions script -->
 
 ---
