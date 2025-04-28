@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/AI-Expert-orange?style=flat-square" alt="AI" />
   <img src="https://img.shields.io/badge/Web-Full%20Stack-blue?style=flat-square" alt="Web" />
   <img src="https://img.shields.io/badge/Mobile-Developer-brightgreen?style=flat-square" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Algorithm-Master-red?style=flat-square" alt="Algorithm" />
-  <img src="https://img.shields.io/badge/Admin-ICP--COJ-purple?style=flat-square" alt="Admin ICPCOJ" />
+  <img src="https://img.shields.io/badge/Algorithm-Purple-brightgreen?style=flat-square" alt="Algorithm" />
+  <img src="https://img.shields.io/badge/Admin-ICPCOJ.ID.VN-purple?style=flat-square" alt="Admin icpcoj.id.vn" />
+  <img src="https://img.shields.io/badge/Tnv-OJ.CLUE.EDU.VN-purple?style=flat-square" alt="Admin icpcoj.id.vn" />
 </p>
 
 <div align="center">
