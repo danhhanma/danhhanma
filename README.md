@@ -16,47 +16,65 @@
 
 ---
 
-## 👋 Xin chào! Tôi là Danh Han Ma
+## 👋 Xin chào! Tôi là <b>Danh Han Ma</b>
 
-- 🎓 **Không ngừng học hỏi:** Đam mê AI, app, web, mobile, full stack và mọi lĩnh vực sáng tạo công nghệ mới.
-- 💡 **Thế mạnh:** Thuật toán, giải quyết vấn đề tối ưu, lập trình giải thuật chuyên sâu, xây dựng hệ thống hiệu quả.
-- 🛠️ **Kỹ năng nổi bật:**  
-  - **AI, Machine Learning, Deep Learning**
-  - **Web/App/Mobile Development:** React, Node.js, Flutter, v.v.
-  - **Kiến trúc hệ thống & Full Stack**
-  - **Thuật toán, giải bài toán tối ưu**
-- 🚀 **Admin hệ thống:** [icpcoj.id.vn](https://icpcoj.id.vn) – Nền tảng Online Judge hỗ trợ cộng đồng học lập trình & thuật toán.
+Chào mừng bạn đến với không gian sáng tạo và phát triển của tôi! Tôi là một lập trình viên đam mê trí tuệ nhân tạo, công nghệ web, mobile và full stack, với khát vọng không ngừng nâng cao kỹ năng và chia sẻ tri thức tới cộng đồng.
+
+### 🎯 Triết lý phát triển
+
+> "Học hỏi mỗi ngày, đổi mới không ngừng, sáng tạo không giới hạn, chinh phục mọi thử thách."
 
 ---
 
-## 🏆 Dự án tiêu biểu
+## 🏅 Thế mạnh & Kỹ năng
+
+- **Chuyên sâu AI & Machine Learning:** Thiết kế, nghiên cứu, ứng dụng AI vào thực tiễn, giải quyết các bài toán phức tạp.
+- **Full Stack Developer:** Thành thạo từ frontend (React, Twind, Bootstrap, Flutter...) đến backend (Node.js, Python, Java, C++).
+- **Mobile & Web App:** Đưa ý tưởng thành sản phẩm thực tế trên mọi nền tảng.
+- **Kiến trúc hệ thống, DevOps:** Triển khai, tối ưu, bảo mật hệ thống trên Linux, Docker, NGINX, Cloudflare.
+- **Thuật toán & giải thuật:** Tối ưu hoá, giải bài toán khó, xây dựng nền tảng chấm bài tự động chuyên nghiệp.
+
+---
+
+## 🚀 Dự án tiêu biểu
 
 ### [OJ Project](https://github.com/danhhanma/oj-project)
-> Hệ thống chấm bài lập trình tự động, giải pháp toàn diện cho giáo dục & cộng đồng lập trình.
+> **Hệ thống chấm bài lập trình tự động chuyên nghiệp – bệ phóng cho cộng đồng học lập trình và thuật toán.**
 
-- Giao diện hiện đại, trải nghiệm chuyên nghiệp (Bootstrap + Twind)
-- Backend mạnh mẽ với Node.js, tối ưu logic chấm bài, quản lý dữ liệu linh hoạt
-- Tích hợp domain, SSL Cloudflare, reverse proxy NGINX
-- Dễ dàng triển khai trên mọi VPS, sẵn sàng mở rộng
-- [Xem chi tiết dự án](https://github.com/danhhanma/oj-project)
+- 🌐 Giao diện hiện đại (Bootstrap + Twind), trải nghiệm vượt trội
+- ⚡ Backend mạnh mẽ (Node.js), logic chấm bài thông minh, quản lý dữ liệu linh hoạt
+- 🔒 Hạ tầng chuyên nghiệp: domain riêng, SSL Cloudflare miễn phí, reverse proxy NGINX, triển khai dễ trên mọi VPS
+- 🚦 Quy trình tối ưu – bảo mật – sẵn sàng mở rộng, hỗ trợ cộng đồng giáo dục
+
+[👉 Xem chi tiết dự án tại đây](https://github.com/danhhanma/oj-project)
 
 ---
 
-## 🌐 Liên hệ & Kết nối
+## 🏆 Đóng góp cộng đồng & quản trị
 
-- 💼 LinkedIn: [danhhanma](https://www.linkedin.com/in/danhhanma) <!-- Nếu có, bỏ dòng này nếu không dùng -->
+- **Admin ICP COJ:** [icpcoj.id.vn](https://icpcoj.id.vn)  
+  > Nền tảng Online Judge hỗ trợ hàng nghìn lập trình viên trẻ chinh phục thuật toán & phát triển tư duy giải quyết vấn đề.
+
+- **Chia sẻ tri thức:** Luôn sẵn sàng hỗ trợ, mentor, đồng hành cùng các bạn trẻ yêu công nghệ và lập trình.
+
+---
+
+## 🌐 Kết nối với tôi
+
+- 💼 LinkedIn: [danhhanma](https://www.linkedin.com/in/danhhanma) <!-- Bỏ nếu không có -->
 - ✉️ Email: danhhanma@gmail.com
 - 📝 ICP COJ: [icpcoj.id.vn](https://icpcoj.id.vn)
 
 ---
 
-## 💡 Châm ngôn
+## 💬 Sứ mệnh cá nhân
 
-> **“Không ngừng học hỏi – Không ngừng sáng tạo – Không ngại thử thách!”**
+> **"Kiến tạo giá trị thực, truyền cảm hứng sáng tạo, kết nối cộng đồng tri thức số!"**
 
 ---
 
 <p align="center">
-  <b>Bạn muốn hợp tác, trao đổi, hoặc cùng xây dựng các dự án AI, web, mobile và giải thuật?</b><br>
-  <i>Hãy kết nối với mình ngay hôm nay!</i>
+  <b>Bạn là lập trình viên, giáo viên, sinh viên, hay người đam mê công nghệ?</b><br>
+  <b>Hãy kết nối, hợp tác và cùng nhau phát triển những dự án ý nghĩa, sáng tạo và đột phá!</b><br>
+  <i>Open to Collaboration | Mentoring | Project Building | Tech Talks</i>
 </p>
