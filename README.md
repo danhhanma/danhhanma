@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Web-Full%20Stack-blue?style=flat-square" alt="Web" />
   <img src="https://img.shields.io/badge/Mobile-Developer-brightgreen?style=flat-square" alt="Mobile" />
   <img src="https://img.shields.io/badge/Algorithm-Purple-brightgreen?style=flat-square" alt="Algorithm" />
-  <img src="https://img.shields.io/badge/Admin-ICPCOJ.ID.VN-purple?style=flat-square" alt="Admin icpcoj.id.vn" />
-  <img src="https://img.shields.io/badge/Tnv-OJ.CLUE.EDU.VN-purple?style=flat-square" alt="Admin icpcoj.id.vn" />
 </p>
 
 <div align="center">
@@ -25,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,kotlin,html,css,react,nodejs,tailwind,flutter,docker,mysql,mongodb,linux,nginx,cloudflare,ai" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,html,css,react,nodejs,tailwind,docker,mysql,postgres,linux,nginx,cloudflare,ai" /><br>
 </p>
 
 ---
@@ -70,30 +68,6 @@ Luôn khát vọng chinh phục những thử thách công nghệ mới, tôi đ
 
 ---
 
-## 🚀 Dự án tiêu biểu
-
-### [OJ Project](https://github.com/danhhanma/oj-project)
-> **Hệ thống chấm bài lập trình tự động – bệ phóng cho cộng đồng học lập trình và thuật toán**
-
-- 🌐 **Frontend:** UI hiện đại với HTML, CSS, JS, Twind, Bootstrap
-- ⚡ **Core Engine:** C++/Node.js đảm bảo hiệu suất và xử lý chính xác khi chấm bài
-- 🧠 **Algorithm Validation:** Đánh giá thuật toán thông minh, chống đạo code
-- 🔒 **Infrastructure:** Tự động hóa, bảo mật cao, SSL Cloudflare, NGINX reverse proxy
-- 🚦 **Scalability:** Sẵn sàng mở rộng, phục vụ hàng nghìn lập trình viên đồng thời
-
-[👉 Khám phá chi tiết dự án](https://github.com/danhhanma/oj-project)
-
----
-
-
-## 🏆 Đóng góp cộng đồng
-
-- 👨‍💻 **Admin ICPCOJ:** [icpcoj.id.vn](https://icpcoj.id.vn)  
-  > Nền tảng Online Judge hỗ trợ hàng nghìn lập trình viên trẻ chinh phục thuật toán & phát triển tư duy giải quyết vấn đề.
-- 🌱 **Mentoring:** Hướng dẫn, đồng hành cùng sinh viên, lập trình viên trẻ trong hành trình học thuật toán và AI
-- 📝 **Open Source:** Đóng góp và chia sẻ các dự án, công cụ hữu ích cho cộng đồng
-
----
 
 ## 🌐 Kết nối với tôi
 
